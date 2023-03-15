@@ -1,0 +1,28 @@
+.App{
+  text-align: center;
+
+}
+.formCls{
+  height: 200px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background: linear-gradient(237deg, rgba(240,41,41,1) 0%, rgba(252,252,252,1) 96%);
+}
+input{
+  margin-top: 100px;
+  font-size: large;
+  border: 1px solid white;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+button{
+  border: 3px solid white;
+  border-radius: 10px;
+  font-size: large;
+  background: linear-gradient(237deg, rgba(240,41,41,1) 0%, rgba(105,127,243,1) 64%); 
+  color: white;
+  font-weight:bolder;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+button:hover{
+  color: yellow;
+  
+}

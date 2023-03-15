@@ -1,0 +1,23 @@
+p{
+display: inline;
+margin: 10px;
+border: 2px solid black;
+padding: 0px 40px;
+box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+}
+button{
+display: inline;
+margin: 10px;
+cursor: pointer;
+}
+.withLine{
+  position: relative;
+  top:-25px;
+  border: 1px solid black;
+  height: 0.1px;
+  width: 100%;
+}
+.noLine{
+
+}
